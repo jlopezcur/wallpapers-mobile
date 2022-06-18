@@ -11,6 +11,7 @@ let me know so I can give the proper attribution.**
 Here are the image credits that I'm aware of:
 
 - [001.jpg](001.jpg): Unknown
+- [002.jpg](002.jpg): By [Matt Carlson](https://dribbble.com/matt-carlson)
 
 ## Collage
 
